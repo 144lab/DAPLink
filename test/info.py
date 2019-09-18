@@ -78,6 +78,7 @@ PROJECT_RELEASE_INFO = {
     ("lpc11u35_lpc4088dm_if",                       False,      0x0000,     "bin"       ),
     ("lpc11u35_lpc4088qsb_if",                      False,      0x0000,     "bin"       ),
     ('lpc11u35_ssci_chibi_if',                      False,      0x0000,     "bin"       ),
+    ('lpc11u35_ssci_isp1507ax_if',                  False,      0x0000,     "bin"       ),
     ('lpc11u35_ff1705_l151_if',                     False,      0x0000,     "bin"       ),
     ('lpc11u35_ff_lpc546xx_if',                     False,      0x0000,     "bin"       ),
     ('lpc11u35_mini_iot_lpc54018_if',               False,      0x0000,     "bin"       ),
